@@ -1,0 +1,8 @@
+{
+  "domain": "keenetic_tracker",
+  "name": "Keenetic Tracker",
+  "documentation": "https://github.com/eugen1408/home-assistant-keenetic-tracker",
+  "dependencies": [],
+  "codeowners": ["@evaganov"],
+  "requirements": ["requests==2.13.0"]
+}
